@@ -1,4 +1,4 @@
-# Introduction to GitHub
+# AKIENI ACADEMY NOTEBOOK EXERCICES
 
 <!-- ![](https://github.com/ArthurStarks/skills-introduction-to-github/actions/workflows/0-start-exercise.yml/badge.svg) -->
 ![](https://github.com/ArthurStarks/skills-introduction-to-github/actions/workflows/1-create-a-branch.yml/badge.svg)
